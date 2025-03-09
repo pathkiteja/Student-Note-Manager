@@ -4,7 +4,8 @@ This is a multi-PDF viewer and annotation tool built using **Kivy** and **KivyMD
 
 ## Demo
 
-![Demo of Student Note Manager](demo.gif)
+![Demo GIF](demo.gif)
+
 
 ## 🚀 Features
 - Open multiple PDFs
