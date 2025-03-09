@@ -4,7 +4,7 @@ This is a multi-PDF viewer and annotation tool built using **Kivy** and **KivyMD
 
 ## Demo
 
-![Demo GIF](demo.gif)
+![Demo GIF](pic2.png)
 
 
 ## 🚀 Features
