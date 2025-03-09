@@ -1,11 +1,10 @@
 echo "# Student Note Manager
 
 This is a multi-PDF viewer and annotation tool built using **Kivy** and **KivyMD**.
-### 📌 **Home Screen**
-![Home Screen](image.png)
 
-## 🎥 Demo
-[🎥 Watch the Demo Video](https://github.com/pathkiteja/Student-Note-Manager/blob/main/demo.mp4)
+## Demo
+
+![Demo of Student Note Manager](demo.gif)
 
 ## 🚀 Features
 - Open multiple PDFs
