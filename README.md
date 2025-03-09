@@ -9,7 +9,7 @@ This is a multi-PDF viewer and annotation tool built using **Kivy** and **KivyMD
 
 ## 🚀 Features
 - Open multiple PDFs
-- View, navigate, and annotate PDFs
+- View, navigate, and annotatdemo.gife PDFs
 - Drag and drop functionality
 - 
 ## 🛠 Requirements
